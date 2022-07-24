@@ -1,3 +1,5 @@
+![Password Generator](https://github.com/jdhawks2132/03-challenge/blob/main/Screen%20Shot%202022-07-24%20at%209.55.00%20AM.png)
+
 # Password Generator
 
 ## Live Deployment Link
